@@ -64,7 +64,7 @@
     "description": "Account."
   },
   "accountName": {
-    "message": "用戶名",
+    "message": "帳號名稱",
     "description": "Account Name."
   },
   "issuer": {
@@ -134,11 +134,11 @@
     "description": "Update."
   },
   "phrase_incorrect": {
-    "message": "部份帳號輸入密碼錯誤，您無法新增帳號。請在輸入正確的密碼後繼續。",
+    "message": "您無法在帳號解密前新增帳號。請在輸入正確的密碼後繼續。",
     "description": "Passphrase Incorrect."
   },
   "phrase_incorrect_export": {
-    "message": "本次備份不包含無法解密的帳號",
+    "message": "無法解密的帳號不會被包含在此備份中。",
     "description": "Skip Unable-decripted Data."
   },
   "phrase_not_match": {
@@ -182,7 +182,7 @@
     "description": "Local Time is Too Far Off"
   },
   "remind_backup": {
-    "message": "您是否為金鑰建立了備份？別等到為時已晚才建立！",
+    "message": "您是否為您的帳號建立備份了？別等到為時已晚！",
     "description": "Remind Backup"
   },
   "capture_failed": {
@@ -190,7 +190,7 @@
     "description": "Capture Failed"
   },
   "capture_local_file_failed": {
-    "message": "您是否試著從本地檔案掃描QR碼? 請改用 匯入QR碼圖片備份。",
+    "message": "您是否試著從本機檔案掃描QR碼? 請改用 匯入QR碼圖片備份。",
     "description": "Import QR image backup instead of scan local image"
   },
   "based_on_time": {
@@ -226,7 +226,7 @@
     "description": "Import backup file."
   },
   "import_backup_qr": {
-    "message": "导入 QR 图片备份",
+    "message": "匯入 QR 圖片備份",
     "description": "Import qr image backup."
   },
   "import_qr_images": {
@@ -246,7 +246,7 @@
     "description": "Import successful, but some QR image cannot be recognized."
   },
   "import_backup_qr_in_batches": {
-    "message": "您可以選擇多個檔案進行批量匯入",
+    "message": "您可以選擇多個檔案進行批量匯入。",
     "description": "You can select multiple image files to import backup in batches."
   },
   "show_all_entries": {
@@ -298,7 +298,7 @@
     "description": "Use Autofill"
   },
   "use_high_contrast": {
-    "message": "高對比",
+    "message": "使用高對比",
     "description": "Use High Contrast"
   },
   "theme": {
@@ -306,11 +306,11 @@
     "description": "Theme"
   },
   "theme_light": {
-    "message": "亮色",
+    "message": "淺色",
     "description": "Light theme"
   },
   "theme_dark": {
-    "message": "暗色",
+    "message": "深色",
     "description": "Dark theme"
   },
   "theme_simple": {
@@ -326,7 +326,7 @@
     "description": "High Contrast theme"
   },
   "theme_flat": {
-    "message": "平",
+    "message": "平坦",
     "description": "Flat theme"
   },
   "storage_sync_info": {
@@ -387,7 +387,7 @@
     "message": "進階設定"
   },
   "period": {
-    "message": "有效期"
+    "message": "有效期限"
   },
   "type": {
     "message": "類型"
@@ -399,7 +399,7 @@
     "message": "數字"
   },
   "algorithm": {
-    "message": "算法"
+    "message": "演算法"
   },
   "smart_filter": {
     "message": "智慧過濾"
