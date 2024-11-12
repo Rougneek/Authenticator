@@ -474,7 +474,7 @@
     "message": "访问当前标签页以扫描二维码。"
   },
   "permission_storage": {
-    "message": "访问浏览器存储以存储帐户数据。"
+    "message": "访问浏览器存储以存储账户数据。"
   },
   "permission_identity": {
     "message": "用以登录第三方存储服务。"
@@ -486,7 +486,7 @@
     "message": "将脚本注入当前标签页以扫描二维码并允许自动填充功能生效。"
   },
   "permission_clipboard_write": {
-    "message": "剪贴板只写权限以当您点击该帐户时复制代码到剪贴板。"
+    "message": "剪贴板只写权限以当您点击该账户时复制代码到剪贴板。"
   },
   "permission_context_menus": {
     "message": "将身份验证器添加到右键菜单。"
