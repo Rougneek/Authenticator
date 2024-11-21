@@ -483,7 +483,7 @@
     "message": "Allows auto-lock to work."
   },
   "permission_scripting": {
-    "message": "Inject scripts into he current tab to scan QR codes and allow auto-fill to work."
+    "message": "Skript in seinen aktuellen Tab indizieren zum QR-Code scannen und Automatisch-Ausfüllen erlauben, damit es ausgeführt werden kann."
   },
   "permission_clipboard_write": {
     "message": "Gewährt Schreibzugriff auf die Zwischenablage, um Codes in die Zwischenablage zu kopieren, wenn Sie auf das Konto klicken."
@@ -519,6 +519,6 @@
     "message": "tUpzof-6siwjo-xabkym"
   },
   "activate_auto_filter": {
-    "message": "Warning: Smart filter loosely matches the domain name to an account. Always verify that you are on the correct website before entering a code!"
+    "message": "Warnung: Der Smart-Filter versucht den Domian-Namen einem Account zuzuordnen. Verifiziere immer das Sie auf der richtigen Webseite sind bevor sie ein Passwort eingeben!"
   }
 }
