@@ -8,11 +8,11 @@
     "description": "Extension Short Name."
   },
   "extDesc": {
-    "message": "O autenticador gera códigos de autenticação de dois factores no seu navegador.",
+    "message": "O Autenticador gera códigos de autenticação de dois fatores no seu navegador.",
     "description": "Extension Description."
   },
   "added": {
-    "message": "foi adicionado ao.",
+    "message": " foi adicionado.",
     "description": "Added Account."
   },
   "errorqr": {
@@ -64,7 +64,7 @@
     "description": "Account."
   },
   "accountName": {
-    "message": "Nome de Utilizador",
+    "message": "Nome de utilizador",
     "description": "Account Name."
   },
   "issuer": {
@@ -120,10 +120,10 @@
     "description": "Message that user is required to acknowledge before clearing all data."
   },
   "delete_all": {
-    "message": "Redefinir autenticação"
+    "message": "Redefinir Autenticador"
   },
   "delete_all_warning": {
-    "message": "Irá apagar todos os seus dados e redefinir a autenticação completamente. Não será possível recuperar quaisquer dados apagados! Deve considerar guardar uma cópia de segurança antes de redefinir a autenticação."
+    "message": "Irá apagar todos os seus dados e redefinir o Autenticador completamente. Não será possível recuperar quaisquer dados apagados! Deve considerar guardar uma cópia de segurança antes de redefinir o Autenticador."
   },
   "security_warning": {
     "message": "Esta palavra-passe será utilizada para encriptar todas as suas contas. Ninguém poderá ajudá-lo caso se esqueça da sua palavra-passe.",
@@ -489,7 +489,7 @@
     "message": "Concede acesso apenas para escrita à área de transferência para poder copiar códigos para a área de transferência quando clicar na conta."
   },
   "permission_context_menus": {
-    "message": "Adiciona o Authenticator ao menu de contexto."
+    "message": "Adiciona o Autenticador ao menu de contexto."
   },
   "permission_sync_clock": {
     "message": "Permite a sincronização do relógio com a Google."
