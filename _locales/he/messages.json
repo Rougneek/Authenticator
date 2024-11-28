@@ -238,11 +238,11 @@
     "description": "Import backup code."
   },
   "import_otp_urls": {
-    "message": "Import OTP URLs",
+    "message": "ייבוא OTP URLs",
     "description": "Import OTP URLs. Shown as add account method."
   },
   "import_backup_qr_partly_failed": {
-    "message": "Import successful, but some QR codes could not be recognized.",
+    "message": "הייבוא ​​הצליח, אך לא הצלחנו לזהות כמה קודי QR.",
     "description": "Import successful, but some QR image cannot be recognized."
   },
   "import_backup_qr_in_batches": {
@@ -314,11 +314,11 @@
     "description": "Dark theme"
   },
   "theme_simple": {
-    "message": "Simple",
+    "message": "פשוט",
     "description": "Simple theme"
   },
   "theme_compact": {
-    "message": "Compact",
+    "message": "קומפקטי",
     "description": "Compact theme"
   },
   "theme_high_contrast": {
@@ -342,11 +342,11 @@
     "description": "Sign in to 3rd party storage services"
   },
   "sign_in_business": {
-    "message": "Sign in (Business)",
+    "message": "כניסה (לעסקים)",
     "description": "Sign in to 3rd party storage services"
   },
   "onedrive_business_perms": {
-    "message": "Why do business accounts require more permissions?"
+    "message": "מדוע חשבונות עסקיים דורשים יותר הרשאות?"
   },
   "log_out": {
     "message": "צא מהמערכת",
@@ -414,7 +414,7 @@
     "message": "הסיסמא שסיפקת אינו עומדת בדרישות האבטחה של ארגונך. למידע נוסף, צור קשר עם המנהל."
   },
   "advisor": {
-    "message": "Advisor"
+    "message": "עצות"
   },
   "advisor_insight_password_not_set": {
     "message": "הגדר סיסמא כדי לשמור על המידע שלך."
@@ -438,28 +438,28 @@
     "message": "No insights found, everything looks good!"
   },
   "danger": {
-    "message": "Danger"
+    "message": "מסוכן"
   },
   "warning": {
-    "message": "Warning"
+    "message": "אזהרה"
   },
   "info": {
-    "message": "Info"
+    "message": "מידע"
   },
   "dismiss": {
-    "message": "Dismiss"
+    "message": "דחה"
   },
   "learn_more": {
-    "message": "Learn more"
+    "message": "למד עוד"
   },
   "enable_context_menu": {
-    "message": "Add to context menu"
+    "message": "הוספה לתפריט ההקשר"
   },
   "no_entires": {
-    "message": "No accounts to display. Add your first account now."
+    "message": "אין חשבונות להצגה. הוסיפו את החשבון הראשון שלכם עכשיו."
   },
   "permissions": {
-    "message": "Permissions"
+    "message": "הרשאות"
   },
   "permission_revoke": {
     "message": "Revoke"
