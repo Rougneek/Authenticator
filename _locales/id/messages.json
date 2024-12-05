@@ -462,7 +462,7 @@
     "message": "Perizinan"
   },
   "permission_revoke": {
-    "message": "Revoke"
+    "message": "Cabut izin"
   },
   "permission_show_required_permissions": {
     "message": "Menampilkan ijin yang tidak bisa dibatalkan"
@@ -516,7 +516,7 @@
     "message": "Izin tidak diketahui. Jika melihat pesan ini, kirimkan laporan kesalahan."
   },
   "phrase_wrong": {
-    "message": "Password incorrect"
+    "message": "Kata sandi salah"
   },
   "activate_auto_filter": {
     "message": "Warning: Smart filter loosely matches the domain name to an account. Always verify that you are on the correct website before entering a code!"
