@@ -423,7 +423,7 @@
     "message": "Activeu el bloqueig automàtic per protegir les vostres dades."
   },
   "advisor_insight_browser_sync_not_enabled": {
-    "message": "La sincronització està desactivada. Habilitar-la permet que els comptes es sincronitzin entre navegadors."
+    "message": "La sincronització està desactivada. Habilitar-la permet que els comptes se sincronitzin entre navegadors."
   },
   "advisor_insight_auto_fill_not_enabled": {
     "message": "Podeu activar l'emplenament automàtic per omplir els codis a les pàgines web."
