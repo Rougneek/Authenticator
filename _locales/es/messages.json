@@ -486,10 +486,10 @@
     "message": "Inyecta los scripts en la ventana actual para escanear los códigos QR y habilitar el relleno automático."
   },
   "permission_clipboard_write": {
-    "message": "Otorga acceso de sólo escritura al portapapeles para copiar codigos al portapapeles cuando haga clic en la cuenta."
+    "message": "Otorga acceso de solo escritura al portapapeles para copiar códigos al portapapeles cuando haga clic en la cuenta."
   },
   "permission_context_menus": {
-    "message": "Agregar Authenticator al menú contextual."
+    "message": "Agregar autenticado al menú contextual."
   },
   "permission_sync_clock": {
     "message": "Habilitar sincronización del reloj con Google."
