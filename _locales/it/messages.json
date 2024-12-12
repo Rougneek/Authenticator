@@ -480,10 +480,10 @@
     "message": "Consenti l'accesso a servizi d'archiviazione di terze parti."
   },
   "permission_alarms": {
-    "message": "Allows auto-lock to work."
+    "message": "Consenti il blocco automatico."
   },
   "permission_scripting": {
-    "message": "Inject scripts into he current tab to scan QR codes and allow auto-fill to work."
+    "message": "Inietta script nella scheda corrente per scansionare i codici QR e consentire l'autocompletamento."
   },
   "permission_clipboard_write": {
     "message": "Concedi l'accesso di sola scrittura agli appunti per copiarvi i codici quando clicchi sul profilo."
@@ -516,9 +516,9 @@
     "message": "Autorizzazione sconosciuta. Se vedi questo messaggio, sei pregato di inviare una segnalazione di bug."
   },
   "phrase_wrong": {
-    "message": "Password incorrect"
+    "message": "Password errata"
   },
   "activate_auto_filter": {
-    "message": "Warning: Smart filter loosely matches the domain name to an account. Always verify that you are on the correct website before entering a code!"
+    "message": "Attenzione: il filtro intelligente corrisponde al dominio dell'account. Accertati sempre di essere sul sito web corretto prima di inserire un codice!"
   }
 }
