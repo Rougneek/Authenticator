@@ -278,7 +278,7 @@
     "description": "Search"
   },
   "popout": {
-    "message": "Açılır pencere modu",
+    "message": "Yeni pencerede aç",
     "description": "Make window turn into persistent popup"
   },
   "lock": {
